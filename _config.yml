@@ -1,3 +1,5 @@
 title: "Документация DTM"
 markdown: kramdown
 search_enabled: true
+
+theme: jekyll-theme-minimal
